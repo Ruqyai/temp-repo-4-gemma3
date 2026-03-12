@@ -1,6 +1,63 @@
 # CHANGELOG
 
 
+## v0.1.2 (2026-03-12)
+
+### Bug Fixes
+
+- Add max_memory CLI support and fix vLLM prompt syntax
+  ([#156](https://github.com/EleutherAI/delphi/pull/156),
+  [`8a79bb7`](https://github.com/EleutherAI/delphi/commit/8a79bb77f5dbe815e087bb017bddfb8adfc23d4f))
+
+* Add max_memory parameter to run config
+
+Co-authored-by: Simon Schrader <simonschrader96@gmail.com>
+
+* Use configurable max_memory for offline explainer
+
+* Fix breaking change in prompt input formatting from vLLM
+
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+
+* Update vllm dependency version to after API breaking change
+
+PR #18800: https://github.com/vllm-project/vllm/releases
+
+---------
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+
+- Bugs in _prepare_text and IntruderScorer prompt formatting
+  ([#153](https://github.com/EleutherAI/delphi/pull/153),
+  [`87f934d`](https://github.com/EleutherAI/delphi/commit/87f934d1b3728b1b6c038398a35287e0e24e4ad7))
+
+* clean up some code and fix bug with preparing text with multiple false positives
+
+* clean up intruderscorer a bit more
+
+* another cleanup in _prepare_and_batch
+
+* cleanup in Pipeline
+
+* fix inconsistency with intruder example formatting
+
+* simplify _generate error reporting
+
+* ignore uv.lock
+
+* undo code readability/style changes
+
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+
+---------
+
+Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+
+
 ## v0.1.1 (2025-08-27)
 
 ### Bug Fixes
