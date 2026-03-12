@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.1.3 (2026-03-12)
+
+### Bug Fixes
+
+- **classifier**: Make log_prob an explicit constructor option
+  ([`fb3aa86`](https://github.com/EleutherAI/delphi/commit/fb3aa863487683285a04f39f3c3134aa6cddb956))
+
+### Continuous Integration
+
+- Add uv quality gates and test discovery config
+  ([`f851189`](https://github.com/EleutherAI/delphi/commit/f851189d1f61b2886176e37babc84c3198eb5a32))
+
+
 ## v0.1.2 (2026-03-12)
 
 ### Bug Fixes
