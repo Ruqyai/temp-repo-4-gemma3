@@ -21,7 +21,6 @@ class Classifier(Scorer):
         client: Client,
         verbose: bool,
         n_examples_shown: int,
-        log_prob: bool,
         seed: int = 42,
         **generation_kwargs,
     ):
@@ -42,7 +41,7 @@ class Classifier(Scorer):
         self.verbose = verbose
         self.n_examples_shown = n_examples_shown
         self.generation_kwargs = generation_kwargs
-        self.log_prob = log_prob
+        self.log_prob = False
         self.rng = random.Random(seed)
 
     async def __call__(
@@ -143,7 +142,8 @@ class Classifier(Scorer):
         match = re.search(pattern, string)
         if match is None:
             raise ValueError("No match found in string")
-        predictions: list[bool | Literal[0, 1]] = json.loads(match.group(0))
+        raw_predictions: list[bool | Literal[0, 1]] = json.loads(match.group(0))
+        predictions = [bool(prediction) for prediction in raw_predictions]
         assert len(predictions) == self.n_examples_shown
         probabilities = (
             self._parse_logprobs(logprobs)
