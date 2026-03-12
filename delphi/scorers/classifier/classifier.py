@@ -22,6 +22,7 @@ class Classifier(Scorer):
         verbose: bool,
         n_examples_shown: int,
         seed: int = 42,
+        log_prob: bool = False,
         **generation_kwargs,
     ):
         """
@@ -41,7 +42,7 @@ class Classifier(Scorer):
         self.verbose = verbose
         self.n_examples_shown = n_examples_shown
         self.generation_kwargs = generation_kwargs
-        self.log_prob = False
+        self.log_prob = log_prob
         self.rng = random.Random(seed)
 
     async def __call__(
