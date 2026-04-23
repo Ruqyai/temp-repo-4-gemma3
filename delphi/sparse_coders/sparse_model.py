@@ -6,6 +6,11 @@ from transformers import PreTrainedModel
 
 from delphi.config import RunConfig
 
+from .custom.gemma_transcoder import (
+    is_gemma_transcoder_path,
+    load_gemma_transcoder_autoencoders,
+    load_gemma_transcoder_hooks,
+)
 from .custom.gemmascope import load_gemma_autoencoders, load_gemma_hooks
 from .load_sparsify import (
     PotentiallyWrappedSparseCoder,
@@ -31,7 +36,15 @@ def load_hooks_sparse_coders(
     """
 
     # Add SAE hooks to the model
-    if "gemma" not in run_cfg.sparse_model:
+    if is_gemma_transcoder_path(run_cfg.sparse_model):
+        hookpoint_to_sparse_encode, transcode = load_gemma_transcoder_hooks(
+            sparse_model=run_cfg.sparse_model,
+            hookpoints=run_cfg.hookpoints,
+            device=model.device,
+            dtype=model.dtype,
+            compile=compile,
+        )
+    elif "gemma" not in run_cfg.sparse_model:
         hookpoint_to_sparse_encode, transcode = load_sparsify_hooks(
             model,
             run_cfg.sparse_model,
@@ -92,6 +105,12 @@ def load_sparse_coders(
     """
 
     # Add SAE hooks to the model
+    if is_gemma_transcoder_path(run_cfg.sparse_model):
+        return load_gemma_transcoder_autoencoders(
+            sparse_model=run_cfg.sparse_model,
+            hookpoints=run_cfg.hookpoints,
+            device=device,
+        )
     if "gemma" not in run_cfg.sparse_model:
         hookpoint_to_sparse_model = load_sparsify_sparse_coders(
             run_cfg.sparse_model,
