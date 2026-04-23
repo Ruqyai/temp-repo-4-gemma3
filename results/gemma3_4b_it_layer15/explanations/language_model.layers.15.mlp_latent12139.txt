@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including Java, C#, and Kotlin, used in software development, along with Android and iOS development, and database management systems."

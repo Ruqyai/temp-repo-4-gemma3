@@ -1,0 +1,1 @@
+"Texts often contain proper nouns such as city names, state names, zip codes, and phone numbers, which are typically found in specific contexts like addresses, contact information, or geographical references."

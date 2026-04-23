@@ -1,0 +1,1 @@
+"Texts often contain URLs, company names, and specific locations, which may be used for informational or navigational purposes."

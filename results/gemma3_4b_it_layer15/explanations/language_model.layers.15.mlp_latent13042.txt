@@ -1,0 +1,1 @@
+"Text fragments containing information about dates, times, and numerical values, often in a format that is not typical of everyday language, suggesting a technical or formal context."

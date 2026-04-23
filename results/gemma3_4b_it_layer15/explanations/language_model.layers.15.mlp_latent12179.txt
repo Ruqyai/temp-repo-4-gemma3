@@ -1,0 +1,1 @@
+"Texts containing technical information, software updates, and troubleshooting guides, often with specific version numbers, error messages, and instructions for installation or configuration."

@@ -1,0 +1,1 @@
+"Texts containing copyright information, often accompanied by activation values of zero, indicating the absence of significant tokens in these sections."

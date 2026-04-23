@@ -1,0 +1,1 @@
+"Text fragments containing numerical data, URLs, and code snippets, often appearing in the context of technical or informative content."

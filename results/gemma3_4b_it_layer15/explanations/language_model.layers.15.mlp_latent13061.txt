@@ -1,0 +1,1 @@
+"Scientific article citations with various metadata, including author names, publication IDs, and abstracts."

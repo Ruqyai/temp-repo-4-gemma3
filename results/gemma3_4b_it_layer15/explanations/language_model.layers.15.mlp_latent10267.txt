@@ -1,0 +1,1 @@
+"Text snippets often contain dates, times, and names, frequently appearing in a specific format, and sometimes accompanied by a link or a reference to another source."

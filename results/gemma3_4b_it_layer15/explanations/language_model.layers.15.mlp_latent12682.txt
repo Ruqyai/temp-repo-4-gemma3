@@ -1,0 +1,1 @@
+"DOIs (Digital Object Identifiers) and URLs, often found at the end of academic articles or research papers, used to provide a unique identifier and link to the source."

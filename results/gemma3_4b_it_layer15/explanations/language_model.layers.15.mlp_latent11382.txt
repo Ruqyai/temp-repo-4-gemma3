@@ -1,0 +1,1 @@
+"Various types of numerical data, including quantities, percentages, and rankings, often used to describe statistics, measurements, or comparisons."

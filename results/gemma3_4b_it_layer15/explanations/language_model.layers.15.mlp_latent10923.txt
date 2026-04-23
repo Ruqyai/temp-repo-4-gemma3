@@ -1,0 +1,1 @@
+"A collection of color codes in hexadecimal format, accompanied by their RGB and sometimes CMYK values, used to describe and analyze colors."

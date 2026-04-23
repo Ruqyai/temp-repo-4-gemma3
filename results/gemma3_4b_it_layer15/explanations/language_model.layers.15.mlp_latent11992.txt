@@ -1,0 +1,1 @@
+"Dates in the format of year and month, often in combination with day, are frequently found in the text."

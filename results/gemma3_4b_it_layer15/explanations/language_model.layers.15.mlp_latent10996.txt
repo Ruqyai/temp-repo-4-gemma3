@@ -1,0 +1,1 @@
+"Discussion of time complexity in algorithms, specifically focusing on the Big O notation and its application to various sorting and searching techniques, including quicksort, mergesort, and hash tables."

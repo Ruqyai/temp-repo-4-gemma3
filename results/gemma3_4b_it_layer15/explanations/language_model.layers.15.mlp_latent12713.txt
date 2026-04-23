@@ -1,0 +1,1 @@
+"Text snippets containing numerical values, dates, and specific phrases, often related to technical or scientific contexts, such as programming, mathematics, and data analysis."

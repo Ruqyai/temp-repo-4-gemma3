@@ -1,0 +1,1 @@
+"Various programming languages and syntax, including Python, C, Java, JavaScript, and Swift, as well as mathematical and scientific expressions, and code snippets from different domains such as data analysis, machine learning, and computer graphics."

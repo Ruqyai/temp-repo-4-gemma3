@@ -1,0 +1,1 @@
+"Text fragments often appear to be standalone sentences or phrases, but are actually part of a larger document, possibly with a title or header, and sometimes with a specific format or structure, such as a list or a quote."

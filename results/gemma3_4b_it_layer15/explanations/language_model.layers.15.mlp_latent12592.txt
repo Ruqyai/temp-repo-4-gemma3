@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for documentation and API reference, often containing function signatures, return types, and descriptions."

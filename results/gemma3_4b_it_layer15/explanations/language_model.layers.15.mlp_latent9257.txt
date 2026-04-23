@@ -1,0 +1,1 @@
+"A mix of technical and non-technical text, including code snippets, academic references, and plain language descriptions, with a focus on computing and optimization."

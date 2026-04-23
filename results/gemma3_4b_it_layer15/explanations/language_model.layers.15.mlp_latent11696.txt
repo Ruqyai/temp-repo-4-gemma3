@@ -1,0 +1,1 @@
+"Timestamps in various formats, often in the format of year-month-day hour:minute:second, sometimes with additional information such as time zones or day of the week."

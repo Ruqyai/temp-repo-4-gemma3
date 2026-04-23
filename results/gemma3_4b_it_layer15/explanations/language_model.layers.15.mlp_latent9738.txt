@@ -1,0 +1,1 @@
+"Text snippets often contain code, quotes, or references to external sources, and sometimes contain special characters or formatting."

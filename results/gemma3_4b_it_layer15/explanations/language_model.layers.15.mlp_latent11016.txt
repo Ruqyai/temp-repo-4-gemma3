@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Python, JavaScript, Ruby, PHP, and Java, with varying levels of indentation and syntax highlighting."

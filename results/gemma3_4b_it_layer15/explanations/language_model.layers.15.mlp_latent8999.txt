@@ -1,0 +1,1 @@
+"Texts often contain links to external resources, references, or additional information, which are frequently denoted by phrases such as \"for reference\", \"here is wording in the competition manual\", or \"learn more about their published books here\"."

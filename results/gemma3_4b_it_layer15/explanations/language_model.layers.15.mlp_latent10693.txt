@@ -1,0 +1,1 @@
+"Dates and time ranges, often in the format of MM/DD/YY or MM/DD/YY – MM/DD/YY, used to specify a period of time."

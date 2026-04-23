@@ -1,0 +1,1 @@
+"Various file paths and directory structures, often used in programming and coding contexts, such as paths to specific files, directories, or system components."

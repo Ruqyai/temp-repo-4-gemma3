@@ -1,0 +1,1 @@
+"Color representations in various formats, including hexadecimal, RGB, and HSL, often used in programming and design contexts."

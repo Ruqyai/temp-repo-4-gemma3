@@ -1,0 +1,1 @@
+"Text fragments often appear in pairs, typically with a colon or quotation mark at the beginning of the second fragment, and sometimes with a specific structure or formatting, such as code snippets or lists."

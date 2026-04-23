@@ -1,0 +1,1 @@
+"Java and other programming language code snippets, including comments, annotations, and method signatures, often containing author information, dates, and parameter descriptions."

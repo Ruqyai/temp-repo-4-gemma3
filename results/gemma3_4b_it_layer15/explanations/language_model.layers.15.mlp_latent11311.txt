@@ -1,0 +1,1 @@
+"SQL code snippets, database table structures, and various programming code segments from different languages, including SQL, Java, Python, and Oracle."

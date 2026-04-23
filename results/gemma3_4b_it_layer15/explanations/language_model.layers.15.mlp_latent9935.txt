@@ -1,0 +1,1 @@
+"Text fragments that are likely to be cut off or truncated, often due to formatting or coding issues, such as JSON errors, HTML tags, or incomplete sentences."

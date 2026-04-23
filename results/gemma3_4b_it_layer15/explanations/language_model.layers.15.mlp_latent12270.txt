@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, IP addresses, or specific technical information, which are frequently enclosed in delimiters."

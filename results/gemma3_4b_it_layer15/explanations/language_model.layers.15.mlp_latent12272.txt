@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for algorithmic and data structure implementations, with a focus on iterative and recursive approaches, and manipulation of arrays, strings, and data structures such as stacks, queues, and priority queues."

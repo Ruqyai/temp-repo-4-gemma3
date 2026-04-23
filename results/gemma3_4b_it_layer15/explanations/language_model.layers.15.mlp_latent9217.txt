@@ -1,0 +1,1 @@
+"SQL code snippets, primarily database table creations and modifications, with various data types and constraints."

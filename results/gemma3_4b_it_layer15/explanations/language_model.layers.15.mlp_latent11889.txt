@@ -1,0 +1,1 @@
+"Texts containing numerical values, often representing amounts, quantities, or ratings, frequently used in financial, scientific, or technical contexts."

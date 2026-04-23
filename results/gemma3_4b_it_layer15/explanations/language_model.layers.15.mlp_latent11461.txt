@@ -1,0 +1,1 @@
+"Texts often contain long, complex sentences with multiple clauses, and sometimes quotes or references to other works. The activation values are generally high, indicating that these sentences are important for the overall meaning of the text."

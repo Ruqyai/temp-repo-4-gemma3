@@ -1,0 +1,1 @@
+"Distances and measurements in various units, including miles, kilometers, and degrees Celsius, often used to describe geographical locations, physical phenomena, and scientific data."

@@ -1,0 +1,1 @@
+"Texts often contain phrases and sentences that describe complex relationships between concepts, such as comparisons, contrasts, and hierarchies, often using prepositions like \"in\", \"on\", \"from\", and \"to\"."

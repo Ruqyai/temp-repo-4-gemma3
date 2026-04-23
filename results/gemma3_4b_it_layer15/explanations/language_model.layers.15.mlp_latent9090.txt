@@ -1,0 +1,1 @@
+"A collection of academic references in the format of a bibliography, with citations and activation values indicating the relevance of each reference."

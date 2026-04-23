@@ -1,0 +1,1 @@
+"Text fragments containing code, technical terms, and formal language, often found in documentation, programming, and academic writing."

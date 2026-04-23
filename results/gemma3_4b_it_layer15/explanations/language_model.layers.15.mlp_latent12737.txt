@@ -1,0 +1,1 @@
+"SQL code for creating database tables, defining table structures, and establishing relationships between tables."

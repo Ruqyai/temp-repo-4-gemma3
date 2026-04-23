@@ -1,0 +1,1 @@
+"Text snippets containing numerical sequences, often representing data or code, and sometimes appearing within larger blocks of text."

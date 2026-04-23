@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, including Java, C++, Python, and others, highlighting the use of special keywords, methods, and functions, such as annotations, overrides, and imports, as well as the structure of classes, methods, and loops."

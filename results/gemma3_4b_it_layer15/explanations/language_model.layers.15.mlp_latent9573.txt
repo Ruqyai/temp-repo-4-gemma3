@@ -1,0 +1,1 @@
+"Error messages and technical troubleshooting information, often including specific error codes, system information, and instructions for resolving issues."

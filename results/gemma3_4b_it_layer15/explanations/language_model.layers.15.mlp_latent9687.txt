@@ -1,0 +1,1 @@
+"Various types of data and statistics presented in a format that is often used in reports, tables, and graphs, including numerical values, percentages, and categorical data."

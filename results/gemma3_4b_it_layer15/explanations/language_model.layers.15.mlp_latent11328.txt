@@ -1,0 +1,1 @@
+"Text fragments that are not part of the main content, often containing disclaimers, taglines, or references to external sources."

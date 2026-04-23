@@ -1,0 +1,1 @@
+"The token \"about\" is used to indicate a rough estimate or approximation of a quantity, often preceding a numerical value."

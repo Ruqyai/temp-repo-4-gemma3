@@ -1,0 +1,1 @@
+"Numerical values representing financial data, such as dollar amounts, percentages, and quantities, often used to describe economic trends, market performance, and policy impacts."

@@ -1,0 +1,1 @@
+"Various types of text fragments, including dates, times, names, titles, company names, URLs, phone numbers, and addresses, often appearing in a specific context such as news articles, company reports, or personal stories."

@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including C++, Java, Python, and C#, as well as mathematical and scientific libraries, and code snippets from different projects and domains."

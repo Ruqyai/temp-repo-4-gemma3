@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for image and graphics manipulation, with a focus on creating, editing, and displaying images."

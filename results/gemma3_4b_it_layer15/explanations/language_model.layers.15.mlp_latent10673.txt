@@ -1,0 +1,1 @@
+"Texts are academic articles with citations and references, often in the format of a DOI (Digital Object Identifier) or a PubMed ID, and sometimes accompanied by a journal name, volume, and page numbers."

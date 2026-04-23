@@ -1,0 +1,1 @@
+"Text snippets often contain phrases or sentences that are cut off or truncated, sometimes with HTML tags or other code present, and sometimes with a specific structure or format, such as a list or a table."

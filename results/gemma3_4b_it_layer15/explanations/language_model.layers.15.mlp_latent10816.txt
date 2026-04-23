@@ -1,0 +1,1 @@
+"Various metadata and formatting elements from different sources, including email headers, dates, times, and version information, often found at the beginning or end of a text."

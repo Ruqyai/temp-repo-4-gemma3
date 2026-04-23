@@ -1,0 +1,1 @@
+"Texts are often enclosed in <<...>> to indicate a quote, a definition, or a specific section of text. These enclosed texts are often used to provide additional information, explanations, or examples."

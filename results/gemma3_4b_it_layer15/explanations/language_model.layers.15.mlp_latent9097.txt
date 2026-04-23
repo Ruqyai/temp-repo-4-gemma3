@@ -1,0 +1,1 @@
+"Texts containing specific times, often in 24-hour format, and dates, frequently in the format of day, month, year."

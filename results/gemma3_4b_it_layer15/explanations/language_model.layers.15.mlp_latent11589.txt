@@ -1,0 +1,1 @@
+"URLs, code snippets, and links to external resources, often used in documentation, tutorials, and programming examples."

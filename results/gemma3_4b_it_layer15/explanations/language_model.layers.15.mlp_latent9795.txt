@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily used for iterating over arrays or lists, often with a loop counter variable named \"i\" or \"j\"."

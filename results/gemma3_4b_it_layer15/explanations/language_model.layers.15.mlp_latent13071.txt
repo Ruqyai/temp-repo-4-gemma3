@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that provide additional information or context, denoted by phrases such as \"FYI\" (For Your Information), \"btw\" (by the way), and \"Activations: (\"...\")\" which seem to be used for referencing or providing explanations."

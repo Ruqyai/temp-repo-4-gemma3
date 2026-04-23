@@ -1,0 +1,1 @@
+"Text contains a mix of mathematical equations, programming code, and natural language, often with specific domain knowledge. The presence of mathematical equations and programming code suggests a technical or academic context, while the use of natural language indicates a need for clear communication of complex ideas."
