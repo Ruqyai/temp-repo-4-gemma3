@@ -1,0 +1,1 @@
+"Texts describing technical instructions, tutorials, and guides, often with a focus on software installation, configuration, and troubleshooting, frequently including code snippets and command-line examples."

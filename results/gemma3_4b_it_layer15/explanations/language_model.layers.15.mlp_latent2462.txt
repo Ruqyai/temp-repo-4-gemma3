@@ -1,0 +1,1 @@
+"Texts often contain titles or headings, which are frequently represented by a sequence of words, sometimes with a number, and are often followed by a period."

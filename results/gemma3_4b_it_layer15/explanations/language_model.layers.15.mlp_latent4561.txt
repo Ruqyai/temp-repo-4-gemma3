@@ -1,0 +1,1 @@
+"Geographic coordinates and location information, often presented in a formal or technical format, including latitude and longitude values, city names, and country information."

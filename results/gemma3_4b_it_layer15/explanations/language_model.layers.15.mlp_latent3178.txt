@@ -1,0 +1,1 @@
+"Code snippets and instructions for various software installations, configurations, and operations, often including command-line interfaces and text editors."

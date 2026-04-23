@@ -1,0 +1,1 @@
+"Text snippets containing citations, references, or academic sources, often accompanied by metadata such as DOI, PMID, or ISBN numbers."

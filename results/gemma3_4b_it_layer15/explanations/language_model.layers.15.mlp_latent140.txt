@@ -1,0 +1,1 @@
+"Various numerical values, often representing quantities or measurements, such as population sizes, distances, and emissions."

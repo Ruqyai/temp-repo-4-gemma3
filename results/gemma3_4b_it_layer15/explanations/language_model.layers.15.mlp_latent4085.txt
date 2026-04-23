@@ -1,0 +1,1 @@
+"Error messages and warnings in various programming languages and systems, often including specific details about the error, such as file paths, line numbers, or expected input formats."

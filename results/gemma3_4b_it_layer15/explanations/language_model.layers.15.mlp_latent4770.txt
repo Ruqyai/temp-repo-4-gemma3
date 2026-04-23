@@ -1,0 +1,1 @@
+"Timestamps and metadata related to publication, revision, and modification of text, often including dates, times, and user information."

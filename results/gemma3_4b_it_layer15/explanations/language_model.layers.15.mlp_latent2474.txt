@@ -1,0 +1,1 @@
+"Texts containing technical information, tutorials, and explanations about programming, software development, and related topics, often including code snippets, commands, and references to specific technologies and platforms."

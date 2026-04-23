@@ -1,0 +1,1 @@
+"Text fragments containing proper nouns, such as team names, player names, and locations, often indicating a sports-related context."

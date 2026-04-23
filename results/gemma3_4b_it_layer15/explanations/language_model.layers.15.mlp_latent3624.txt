@@ -1,0 +1,1 @@
+"The token \"anything\" is used to indicate that rules or constraints do not apply, often used in a permissive or open-ended context."

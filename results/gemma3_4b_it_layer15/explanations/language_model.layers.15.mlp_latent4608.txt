@@ -1,0 +1,1 @@
+"Text snippets often contain URLs, API endpoints, or other technical information, sometimes within a larger narrative or quotation."

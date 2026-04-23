@@ -1,0 +1,1 @@
+"Various color codes in hexadecimal format, including RGB and HSL representations, used in web development and design."

@@ -1,0 +1,1 @@
+"Token sequences indicating the start or end of a block of text, often containing metadata or formatting information, such as timestamps, user information, and formatting tags."

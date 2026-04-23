@@ -1,0 +1,1 @@
+"Text fragments often appear to be standalone quotes, sometimes with a preceding or following context, and sometimes with a specific formatting or structure, such as a title or a description."

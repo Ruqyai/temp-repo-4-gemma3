@@ -1,0 +1,1 @@
+"Patterns of code snippets, mathematical expressions, and data structures, often with a focus on arrays, matrices, and sequences, as well as programming concepts such as loops, functions, and data types."

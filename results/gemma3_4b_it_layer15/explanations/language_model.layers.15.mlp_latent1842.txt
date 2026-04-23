@@ -1,0 +1,1 @@
+"Text fragments often containing medical information, health advice, or descriptions of symptoms, frequently accompanied by citations or references."

@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are not directly related to the main content, but serve as a transition or a link to another resource, such as a book, article, or website. These phrases are often accompanied by activation values indicating a lower level of importance."

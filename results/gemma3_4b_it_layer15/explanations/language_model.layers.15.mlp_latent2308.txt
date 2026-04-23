@@ -1,0 +1,1 @@
+"Texts from various sources, including technical documents, articles, and books, with a focus on extracting specific phrases, sentences, or code snippets. The patterns found include code snippets in programming languages, mathematical equations, and technical terms from various fields."

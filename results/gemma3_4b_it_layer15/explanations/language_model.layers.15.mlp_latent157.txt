@@ -1,0 +1,1 @@
+"Various text fragments, often containing addresses, names, or specific information, are terminated by the delimiter <eos> or a similar marker, indicating the end of a text segment or a new context."

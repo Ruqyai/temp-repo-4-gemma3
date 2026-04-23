@@ -1,0 +1,1 @@
+"Text fragments often appear in a table format, with vertical lines separating columns, and horizontal lines separating rows."

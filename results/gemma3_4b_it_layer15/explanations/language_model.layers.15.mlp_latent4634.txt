@@ -1,0 +1,1 @@
+"Code comments and metadata in various programming languages, including Java, C++, and Markdown, containing information about authorship, creation dates, modification times, and other relevant details."

@@ -1,0 +1,1 @@
+"Code snippets and database queries, often containing foreign keys, primary keys, and other database-related terms, as well as mathematical expressions and prime factorizations."

@@ -1,0 +1,1 @@
+"Texts containing legal disclaimers, software licenses, and permissions, often found at the beginning of documents or code."

@@ -1,0 +1,1 @@
+"Various types of dialog boxes, forms, and configuration settings in text, often used to describe user interfaces or provide instructions."

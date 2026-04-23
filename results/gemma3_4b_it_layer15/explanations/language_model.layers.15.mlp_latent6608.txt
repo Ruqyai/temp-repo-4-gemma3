@@ -1,0 +1,1 @@
+"Dates and years in the format of \"year\" or \"year.month\" or \"year.month.day\" are often found at the end of a sentence or paragraph, possibly indicating a reference or citation."

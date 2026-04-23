@@ -1,0 +1,1 @@
+"Texts often contain phrases indicating a change of location or direction, such as \"to\", \"from\", \"in\", \"at\", and \"towards\", as well as words describing movement, like \"drive\", \"circle\", \"head\", and \"go\"."

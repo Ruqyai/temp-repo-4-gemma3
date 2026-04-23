@@ -1,0 +1,1 @@
+"Texts often contain phrases or sentences that are enclosed in delimiters, which may indicate a quote, a title, or a specific type of text, such as a scientific concept or a technical term. These enclosed phrases or sentences may be written in a formal or technical tone, and may contain specialized vocabulary or jargon."

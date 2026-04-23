@@ -1,0 +1,1 @@
+"Various types of text fragments, including mathematical equations, quotes, code snippets, and paragraphs of text, often used to provide context or illustrate a point."

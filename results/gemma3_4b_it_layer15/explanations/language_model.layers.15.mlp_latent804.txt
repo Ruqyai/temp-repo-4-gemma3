@@ -1,0 +1,1 @@
+"Text fragments containing URLs, email addresses, and other online content, often related to external links or embedded media."

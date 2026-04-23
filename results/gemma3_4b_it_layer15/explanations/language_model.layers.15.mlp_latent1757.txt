@@ -1,0 +1,1 @@
+"Various types of delimiters and special characters used to denote the end of a section, a file, or a block of code, often found in programming, documentation, and online content."

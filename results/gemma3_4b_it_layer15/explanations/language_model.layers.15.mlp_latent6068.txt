@@ -1,0 +1,1 @@
+"Text fragments that are likely to be cut off or truncated, often at the end of a sentence or paragraph, with a high activation score indicating that the model is trying to predict the continuation of the text."

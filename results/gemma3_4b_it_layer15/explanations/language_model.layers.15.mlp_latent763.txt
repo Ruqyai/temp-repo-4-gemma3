@@ -1,0 +1,1 @@
+"Various types of text data, including URLs, scientific articles, programming code, and online forum posts, often containing unique identifiers, hexadecimal codes, and technical jargon."

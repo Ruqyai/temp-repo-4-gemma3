@@ -1,0 +1,1 @@
+"Text snippets containing various types of data, including URLs, email addresses, phone numbers, dates, and IDs, often in a format that appears to be extracted from logs or system outputs."

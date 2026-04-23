@@ -1,0 +1,1 @@
+"Numbers and dates in the format of year, percentage, or time, often used for context or comparison."

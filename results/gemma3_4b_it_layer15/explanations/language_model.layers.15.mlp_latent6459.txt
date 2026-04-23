@@ -1,0 +1,1 @@
+"Texts that are likely to be the beginning of a sentence or a paragraph, often containing a topic or subject that will be further discussed."

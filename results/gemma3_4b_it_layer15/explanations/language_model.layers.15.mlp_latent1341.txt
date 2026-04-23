@@ -1,0 +1,1 @@
+"Texts that are enclosed in delimiters are often quotes, citations, or references, and are typically not as highly activated as the surrounding text."

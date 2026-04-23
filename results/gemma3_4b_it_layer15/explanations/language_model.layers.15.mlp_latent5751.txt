@@ -1,0 +1,1 @@
+"Texts often contain timestamps, usernames, and hashtags, which are used to provide context and identify the source of the information."

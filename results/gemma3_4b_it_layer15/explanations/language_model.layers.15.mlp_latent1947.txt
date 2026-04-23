@@ -1,0 +1,1 @@
+"Text contains a mix of scientific and technical content, including academic papers, code snippets, and product descriptions, with various formatting elements such as HTML, LaTeX, and color codes."

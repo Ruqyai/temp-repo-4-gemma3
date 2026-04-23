@@ -1,0 +1,1 @@
+"Texts containing addresses, locations, and travel information, often in the format of \"place, street, city, postcode, country\"."

@@ -1,0 +1,1 @@
+"Texts that are not suitable as input to the model, likely due to being advertisements, articles, or other non-conversational content."

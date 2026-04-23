@@ -1,0 +1,1 @@
+"A collection of scientific article citations and references, primarily in the fields of medicine, biology, and neuroscience, with various metadata such as DOI, PMID, and journal names."

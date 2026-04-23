@@ -1,0 +1,1 @@
+"Texts are often cut off mid-sentence, likely due to truncation of the original text."

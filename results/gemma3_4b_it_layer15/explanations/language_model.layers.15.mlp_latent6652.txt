@@ -1,0 +1,1 @@
+"Phrases and sentences that are set apart from the rest of the text, often indicating a shift in topic, a quote, or a parenthetical remark, and are typically marked by a higher activation value."

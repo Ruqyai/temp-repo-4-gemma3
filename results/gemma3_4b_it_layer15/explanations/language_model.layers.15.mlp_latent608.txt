@@ -1,0 +1,1 @@
+"The token \"state\" is often used as a placeholder for a variable or a value in programming contexts, while the token \"context\" is used to describe a situation or a setting."

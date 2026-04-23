@@ -1,0 +1,1 @@
+"Various types of text fragments, including URLs, HTML tags, and special characters, often found at the end of a sentence or paragraph."

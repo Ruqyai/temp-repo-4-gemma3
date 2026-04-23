@@ -1,0 +1,1 @@
+"Texts often contain URLs, specific dates, and GPS coordinates, which are typically used for reference or navigation purposes. Additionally, the text frequently includes citations, references to external sources, and quotes from various authors or experts."

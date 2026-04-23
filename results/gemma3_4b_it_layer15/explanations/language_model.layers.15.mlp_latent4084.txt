@@ -1,0 +1,1 @@
+"Various programming languages and frameworks, including JavaScript, Python, C++, Java, and SQL, as well as libraries and tools such as React, Lodash, and Matplotlib."

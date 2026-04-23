@@ -1,0 +1,1 @@
+"Class and method declarations in various programming languages, including Java, Python, C++, JavaScript, and others."

@@ -1,0 +1,1 @@
+"Texts describing technical instructions for installing and configuring various software packages, including programming languages, development tools, and operating system components."

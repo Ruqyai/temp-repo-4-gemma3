@@ -1,0 +1,1 @@
+"A mix of various text types, including academic papers, news articles, product descriptions, and personal messages, with a common thread of containing numerical data, such as page counts, file sizes, and activation values."

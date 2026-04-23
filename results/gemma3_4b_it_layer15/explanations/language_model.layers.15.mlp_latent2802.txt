@@ -1,0 +1,1 @@
+"Text fragments containing code snippets, mathematical equations, and technical jargon, often related to programming, engineering, and scientific concepts."

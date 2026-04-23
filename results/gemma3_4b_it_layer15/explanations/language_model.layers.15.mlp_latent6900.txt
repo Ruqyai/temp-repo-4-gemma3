@@ -1,0 +1,1 @@
+"Various programming concepts and data structures, including queues, stacks, hash maps, vectors, and matrices, as well as object-oriented programming (OOP) principles and design patterns."

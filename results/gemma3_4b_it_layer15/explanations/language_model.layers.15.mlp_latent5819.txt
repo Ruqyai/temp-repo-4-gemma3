@@ -1,0 +1,1 @@
+"The text contains a mix of programming code, mathematical expressions, and logical statements, often with a focus on conditional operations and boolean values. Many examples feature return statements with boolean values, while others involve comparisons, loops, and conditional expressions."

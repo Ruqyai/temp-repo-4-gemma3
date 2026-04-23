@@ -1,0 +1,1 @@
+"Text containing geographical information, such as distances, locations, and times, often in a format that includes numerical values and abbreviations."

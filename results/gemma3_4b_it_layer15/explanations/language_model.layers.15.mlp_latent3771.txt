@@ -1,0 +1,1 @@
+"Texts are often preceded by a delimiter indicating the end of a previous section or the start of a new one, followed by a title or a heading."

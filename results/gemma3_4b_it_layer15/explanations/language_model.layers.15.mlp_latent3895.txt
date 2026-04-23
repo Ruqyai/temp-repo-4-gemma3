@@ -1,0 +1,1 @@
+"Various types of code snippets, function definitions, and programming-related terms, often in the context of Vue, Angular, and NodeJS, as well as technical and scientific concepts."

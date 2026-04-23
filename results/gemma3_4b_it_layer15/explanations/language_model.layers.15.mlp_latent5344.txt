@@ -1,0 +1,1 @@
+"Text fragments often appear at the end of a paragraph or section, frequently containing a link to external content, a call to action, or a reference to a related topic."

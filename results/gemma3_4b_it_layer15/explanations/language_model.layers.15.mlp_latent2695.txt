@@ -1,0 +1,1 @@
+"Text fragments that appear to be code snippets, programming information, or technical data, often containing specific details such as version numbers, IDs, or URLs."

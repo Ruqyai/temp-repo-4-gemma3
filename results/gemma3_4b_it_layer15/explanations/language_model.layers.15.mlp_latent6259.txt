@@ -1,0 +1,1 @@
+"Code snippets from various programming languages, primarily Java and C#, with database schema and entity classes, indicating a focus on software development and database design."

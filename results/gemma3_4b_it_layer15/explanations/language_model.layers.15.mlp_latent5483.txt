@@ -1,0 +1,1 @@
+"Texts that are not actual sentences or coherent phrases, but rather fragments of sentences, lists, or code snippets, often with a high activation value, indicating that they are being used as a placeholder or a reference point in the text."

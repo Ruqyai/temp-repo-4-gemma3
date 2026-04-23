@@ -1,0 +1,1 @@
+"Texts containing technical or formal descriptions, often related to programming, engineering, or scientific concepts, frequently including lists of improvements or updates, and sometimes referencing specific versions or languages."

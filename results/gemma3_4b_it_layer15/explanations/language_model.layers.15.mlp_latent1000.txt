@@ -1,0 +1,1 @@
+"Large blocks of text, often from external sources, such as articles, books, or websites, are embedded within the main text. These blocks are typically separated from the main text by blank lines and may contain various formatting, such as headers, footnotes, or citations."

@@ -1,0 +1,1 @@
+"Various types of text formatting and markup, including HTML tags, LaTeX equations, and special characters, used to represent mathematical expressions, chemical formulas, and other technical information."

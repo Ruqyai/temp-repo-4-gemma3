@@ -1,0 +1,1 @@
+"Texts containing technical instructions, security protocols, and system administration procedures, often involving complex terminology and specific commands."

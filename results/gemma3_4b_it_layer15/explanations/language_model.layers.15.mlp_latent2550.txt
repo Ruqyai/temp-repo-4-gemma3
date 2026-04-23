@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of organizations, locations, and people, which are frequently mentioned in conjunction with other nouns or phrases. Additionally, the texts may include technical terms, abbreviations, and acronyms, which are sometimes explained or referenced in the surrounding context."

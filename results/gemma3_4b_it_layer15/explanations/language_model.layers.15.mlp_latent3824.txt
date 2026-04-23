@@ -1,0 +1,1 @@
+"Various identifiers and metadata from programming and technical contexts, including code snippets, function names, and data references."

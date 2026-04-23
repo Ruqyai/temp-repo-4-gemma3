@@ -1,0 +1,1 @@
+"Texts containing various licenses, legal notices, and copyright information, often found at the beginning or end of documents, and sometimes within code."

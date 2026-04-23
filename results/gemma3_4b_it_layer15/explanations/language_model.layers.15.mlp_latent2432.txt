@@ -1,0 +1,1 @@
+"Texts often contain technical terms, proper nouns, and specific concepts, which are frequently highlighted in bold or italics, and sometimes accompanied by links or references."

@@ -1,0 +1,1 @@
+"Text fragments often appear to be URLs, links, or external references, but are actually irrelevant or nonsensical content, possibly indicating spam or automated text generation."

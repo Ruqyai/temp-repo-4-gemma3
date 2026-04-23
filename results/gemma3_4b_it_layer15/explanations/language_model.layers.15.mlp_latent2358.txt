@@ -1,0 +1,1 @@
+"Texts are often terminated with a specific delimiter, likely indicating the end of a document or a section, and are frequently followed by a title or a heading."

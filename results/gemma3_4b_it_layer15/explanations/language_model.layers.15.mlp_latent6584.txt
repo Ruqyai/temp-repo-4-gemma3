@@ -1,0 +1,1 @@
+"Text fragments enclosed in angle brackets, often containing titles, subtitles, or other metadata, and sometimes followed by a sequence of text with high activation values."

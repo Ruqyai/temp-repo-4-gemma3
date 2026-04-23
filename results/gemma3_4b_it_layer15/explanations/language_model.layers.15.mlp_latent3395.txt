@@ -1,0 +1,1 @@
+"Texts discussing various topics, including science, technology, economics, politics, and social issues, often contain technical terms and jargon. The presence of these terms is associated with a higher activation value, indicating their importance in the context."

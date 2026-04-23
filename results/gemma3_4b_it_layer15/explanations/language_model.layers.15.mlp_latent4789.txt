@@ -1,0 +1,1 @@
+"Texts are mostly mathematical problems and solutions, with some programming code and explanations of concepts in physics, computer science, and other subjects."

@@ -1,0 +1,1 @@
+"Various types of text data, including numbers, mathematical expressions, URLs, email addresses, phone numbers, and text from different languages, often with low activation values, suggesting a lack of importance or relevance in the context."

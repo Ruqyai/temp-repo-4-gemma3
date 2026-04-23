@@ -1,0 +1,1 @@
+"Various mathematical concepts and formulas, including probability, permutations, combinations, and geometric progressions, as well as code snippets and mathematical expressions, often involving variables and functions."

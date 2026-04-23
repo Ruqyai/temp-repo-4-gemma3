@@ -1,0 +1,1 @@
+"URLs, IDs, and other unique identifiers, often found in digital contexts such as web pages, research papers, and code snippets."

@@ -1,0 +1,1 @@
+"Texts containing various types of sensitive information, including passwords, personal data, financial information, and private communications, often accompanied by warnings about data protection and security."

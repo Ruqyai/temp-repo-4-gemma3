@@ -1,0 +1,1 @@
+"Texts containing mathematical and programming concepts, including optimization problems, linear regression, and algorithmic solutions, often involving minimization of expressions or functions."

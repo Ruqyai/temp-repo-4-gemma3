@@ -1,0 +1,1 @@
+"Dates and time periods, often used to specify a range or duration, frequently appearing in the format of \"from [year] to [year]\"."

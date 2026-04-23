@@ -1,0 +1,1 @@
+"Texts describing search functionality, search algorithms, and search results, often with a focus on efficiency, relevance, and user experience."

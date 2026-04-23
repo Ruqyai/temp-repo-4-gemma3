@@ -1,0 +1,1 @@
+"Text snippets containing specific formatting codes, color codes, and HTML tags, often used for styling or linking purposes, but also appearing in plain text."

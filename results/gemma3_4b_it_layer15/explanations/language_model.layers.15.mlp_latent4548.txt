@@ -1,0 +1,1 @@
+"Text snippets often contain specific numerical values, percentages, or time ranges, which may be used for comparison, measurement, or reference."

@@ -1,0 +1,1 @@
+"The token \"ING\" at the end of a word, often used to form present participles or gerunds, and the token \"<<\" and \">>\" used to denote code or programming examples."

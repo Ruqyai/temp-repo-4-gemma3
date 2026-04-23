@@ -1,0 +1,1 @@
+"Code snippets and programming instructions, often in the context of tutorials, guides, or troubleshooting, frequently including command-line interfaces, programming languages, and software development tools."

@@ -1,0 +1,1 @@
+"Texts often contain technical terms, names of people, places, and organizations, as well as references to external sources, equations, and code snippets. These elements are frequently embedded within paragraphs of narrative or explanatory text, and are often used to provide context or support the main argument."

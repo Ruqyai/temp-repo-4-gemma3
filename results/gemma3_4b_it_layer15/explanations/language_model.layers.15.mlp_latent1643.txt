@@ -1,0 +1,1 @@
+"Texts that are preceded by a delimiter and followed by a quotation mark, often containing a sentence or phrase that is being referenced or quoted."

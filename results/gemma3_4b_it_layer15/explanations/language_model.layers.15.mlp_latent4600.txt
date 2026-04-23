@@ -1,0 +1,1 @@
+"Texts with low activation values are likely advertisements, articles, or other non-essential content, while texts with higher activation values are likely to be the main content of the page, often containing quotes, dialogue, or key information."

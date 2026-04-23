@@ -1,0 +1,1 @@
+"A mix of hexadecimal and decimal numbers, IPv6 addresses, RGB color codes, and other technical data, often found in programming or technical contexts."

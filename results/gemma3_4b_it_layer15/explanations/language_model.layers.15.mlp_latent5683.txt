@@ -1,0 +1,1 @@
+"Text snippets containing dates, times, locations, and other specific details, often in a formal or structured format, such as phone numbers, addresses, and ISBN numbers."

@@ -1,0 +1,1 @@
+"Texts containing URLs, hashtags, and color codes, often used for formatting or linking to external sources."

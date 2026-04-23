@@ -1,0 +1,1 @@
+"Various code snippets and programming languages, including Python, SQL, and Java, with a focus on data manipulation, encryption, and visualization."

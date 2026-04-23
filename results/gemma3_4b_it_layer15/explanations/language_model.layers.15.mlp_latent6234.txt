@@ -1,0 +1,1 @@
+"Timestamps in the format \"year-month-day\" or \"year-month-day hour:minute:second\" often appear in the text, frequently at the end of a line or before a quotation mark."

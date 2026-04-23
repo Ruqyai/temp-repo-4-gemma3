@@ -1,0 +1,1 @@
+"Text fragments containing lists of items, often numerical, and possibly accompanied by additional information, such as names, dates, or descriptions."

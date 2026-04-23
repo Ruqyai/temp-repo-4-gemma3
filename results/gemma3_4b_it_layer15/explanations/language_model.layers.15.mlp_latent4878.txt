@@ -1,0 +1,1 @@
+"Various types of data and metadata, including geographical information, technical specifications, contact details, and product descriptions, often in a structured format."

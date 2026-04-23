@@ -1,0 +1,1 @@
+"SQL code snippets, including database table structures, queries, and triggers, written in various programming languages such as Java, PHP, and SQL."

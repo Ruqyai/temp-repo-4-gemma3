@@ -1,0 +1,1 @@
+"Texts describing technical solutions to various problems, often involving software installation, configuration, and troubleshooting, with a focus on providing step-by-step instructions and workarounds."

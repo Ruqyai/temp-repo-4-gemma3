@@ -1,0 +1,1 @@
+"Technical documentation and configuration files, often in the form of code snippets, command-line options, and API references, detailing various software features, troubleshooting methods, and system administration procedures."

@@ -1,0 +1,1 @@
+"Various domain-specific text patterns, including email addresses, URLs, programming code, and specific keywords from different fields such as psychology, education, media, and science."

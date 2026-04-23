@@ -1,0 +1,1 @@
+"The token \"if\" is a common keyword used in programming languages to represent conditional statements, used to execute different blocks of code based on certain conditions."

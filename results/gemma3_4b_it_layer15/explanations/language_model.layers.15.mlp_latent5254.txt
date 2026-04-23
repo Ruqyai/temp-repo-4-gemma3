@@ -1,0 +1,1 @@
+"Texts describing technical issues, errors, or problems, often including error messages, troubleshooting steps, and support information."

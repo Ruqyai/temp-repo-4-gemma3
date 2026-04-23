@@ -1,0 +1,1 @@
+"Text snippets often contain links to external resources, such as articles, videos, or websites, which are typically denoted by phrases like \"View this\", \"View all\", or \"View Article\"."
