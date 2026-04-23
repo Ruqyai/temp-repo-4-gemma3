@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of organizations, locations, and people, which are frequently mentioned in conjunction with other information. Additionally, there are instances of technical terms and jargon related to various fields, including medicine, law, and technology."

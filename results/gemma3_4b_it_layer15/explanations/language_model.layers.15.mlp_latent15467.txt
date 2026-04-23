@@ -1,0 +1,1 @@
+"Texts that are comments, descriptions, or explanations in code, often containing information about functionality, usage, or implementation details."

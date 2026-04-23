@@ -1,0 +1,1 @@
+"Texts often contain proper nouns, such as names of companies, people, and places, which are frequently used to identify specific entities. Additionally, technical and scientific terms are commonly found in these texts, indicating a focus on specialized knowledge and expertise."

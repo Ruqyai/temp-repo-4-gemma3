@@ -1,0 +1,1 @@
+"Text describing colors, their hexadecimal codes, RGB values, and color theory concepts such as complementary, triadic, and analogous colors."

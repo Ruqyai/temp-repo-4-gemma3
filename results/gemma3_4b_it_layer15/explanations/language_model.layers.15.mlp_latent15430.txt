@@ -1,0 +1,1 @@
+"Texts often contain hyperlinks, citations, or references to external sources, which are frequently denoted by specific phrases or keywords, and sometimes accompanied by special characters or tags."

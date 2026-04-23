@@ -1,0 +1,1 @@
+"Book titles, authors, and publication information, often accompanied by activation values for specific words within the text."

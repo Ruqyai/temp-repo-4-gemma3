@@ -1,0 +1,1 @@
+"Email addresses, Twitter handles, and URLs are often found in text, often used to provide contact information or link to external resources."

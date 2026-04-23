@@ -1,0 +1,1 @@
+"Text fragments often appear in code blocks or technical descriptions, sometimes with a specific format or syntax, and are frequently related to programming, software development, or technical specifications."

@@ -1,0 +1,1 @@
+"Various code snippets and technical documentation, including programming languages, frameworks, and software configurations, with a focus on troubleshooting and problem-solving."

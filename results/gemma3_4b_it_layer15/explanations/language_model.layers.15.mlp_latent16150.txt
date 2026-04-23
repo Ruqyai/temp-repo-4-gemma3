@@ -1,0 +1,1 @@
+"Large numbers and percentages are often presented in a specific format, typically with commas or decimal points, and are frequently used to convey significant or alarming information."
