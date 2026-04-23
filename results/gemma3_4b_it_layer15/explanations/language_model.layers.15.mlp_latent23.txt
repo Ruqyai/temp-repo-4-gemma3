@@ -1,1 +1,1 @@
-"Text snippets often contain mathematical problems, scientific formulas, and engineering calculations, frequently involving variables, equations, and units of measurement."
+"Text snippets containing mathematical problems, formulas, and calculations, often related to physics, engineering, and economics."

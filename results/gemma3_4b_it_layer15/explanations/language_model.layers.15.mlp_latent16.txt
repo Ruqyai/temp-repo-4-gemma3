@@ -1,1 +1,1 @@
-"Code snippets and programming-related text, including comments, function signatures, and variable declarations, often containing special characters and syntax."
+"Code snippets and programming-related text, including comments, function names, and variable declarations, often in multiple programming languages."
